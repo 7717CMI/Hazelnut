@@ -1,0 +1,42 @@
+{
+  "Global": {
+    "By Product Type": {},
+    "By Mode of Operation": {},
+    "By End Use Industry": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East and Africa": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  }
+}
